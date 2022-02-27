@@ -1,6 +1,6 @@
 baseurl = "https://summer-of-blogdown.netlify.com/"
 languageCode = "en-us"
-title = "Summer of Blogdown"
+title = "Year of R"
 theme = "hugo-ivy"
 googleAnalytics = ""
 disqusShortname = ""
@@ -42,7 +42,7 @@ footnotereturnlinkcontents = "↩"
     weight = 8
 
 [params]
-    description = "A week of blogdown for RStudio's summer 2019 interns."
+    description = "A year of R for form 1 students."
     footer = "Powered by [Hugo](https://gohugo.io/), [blogdown](https://github.com/rstudio/blogdown) and [the Ivy theme](https://github.com/yihui/hugo-ivy)"
     twitterImage = "/assets/summer-card.png"
     logo = "https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/blogdown.png"
