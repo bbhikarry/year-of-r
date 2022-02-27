@@ -1,0 +1,13 @@
+---
+title: Changing tutor
+author: Bertrand Bhikarry
+date: '2022-02-27'
+slug: changing-tutor
+categories:
+  - R
+tags: []
+---
+
+Hello Shiva,  
+
+Tell me about your week.
